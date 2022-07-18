@@ -21,9 +21,7 @@ a {
     display: inline-block;
 }
 
-span {
-    color: yellow;
-}
+
 a:hover,a:active {
     background-color: yellow;
 }
